@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>EDA Reports</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+        }
+        .report-links {
+            list-style-type: none;
+            padding: 0;
+        }
+        .report-links li {
+            margin: 10px 0;
+        }
+        .report-links a {
+            text-decoration: none;
+            color: #007bff;
+            font-size: 18px;
+        }
+        .report-links a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Exploratory Data Analysis (EDA) Reports</h1>
+</header>
+
+<div class="container">
+    <h2>Welcome to my EDA reports repository</h2>
+    <p>Below are the links to the EDA reports I have uploaded:</p>
+
+    <ul class="Supermarket-links">
+        <li><a href="ydata/eda_report_1.html" target="_blank">EDA Report 1</a></li>
+        <li><a href="ydata/eda_report_2.html" target="_blank">EDA Report 2</a></li>
+        <li><a href="ydata/eda_report_3.html" target="_blank">EDA Report 3</a></li>
+        <!-- Add more reports as necessary -->
+    </ul>
+</div>
+
+</body>
+</html>
